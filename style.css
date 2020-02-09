@@ -1,26 +1,23 @@
-div{
-    border: 1px solid black;
-  }
-  .wrapper {
-      text-align: center;
-      display: grid;
-      grid-template-columns: 33% 33% 34%;
-  }
-   
-  h1{
-    text-align: center;
-    background-color: greenyellow;
-       
-    }
-     .color{
-    background-color: aquamarine;
-    }
-    .color1{
-        background-color: darksalmon;
-    }
-    .color2{
-         background-color: greenyellow; 
-    }
-  body{
-      background-color: greenyellow;
-  }
+ h1{
+	  background-color: powderblue ;
+	  text-align: center;
+	}
+	div{ 
+	    border: 1px solid;  white;
+	  }
+	  .wrapper {
+	      text-align: center;
+	      display: grid;
+	      grid-template-columns: 33% 33% 33%;
+	      
+	  } 
+	  .hack {
+	    font-weight: 900
+	  }
+	   .myltiSet{
+	      text-align: center;
+	      color: crimson;
+	  }
+	  body{
+	    background-color: powderblue;
+	  }
