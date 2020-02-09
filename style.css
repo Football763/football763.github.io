@@ -1,0 +1,26 @@
+div{
+    border: 1px solid black;
+  }
+  .wrapper {
+      text-align: center;
+      display: grid;
+      grid-template-columns: 33% 33% 34%;
+  }
+   
+  h1{
+    text-align: center;
+    background-color: greenyellow;
+       
+    }
+     .color{
+    background-color: aquamarine;
+    }
+    .color1{
+        background-color: darksalmon;
+    }
+    .color2{
+         background-color: greenyellow; 
+    }
+  body{
+      background-color: greenyellow;
+  }
